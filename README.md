@@ -2,8 +2,7 @@
 
 ![Snake Logo](Images/Snake.jpg)
 
-# Play online @ ➡ 
-# [Snake](https://weilerwebservices.github.io/Snake)  ⬅
+# Play online @ ➡ [Snake](https://weilerwebservices.github.io/Snake)  ⬅
 
 ---
 
