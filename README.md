@@ -20,7 +20,7 @@
 
 This is a simple JavaScript game.
 
-#### Game URL ➡ https://nateweilerwebservices.github.io/Snake/ ⬅ 
+#### Game URL ➡ https://weilerwebservices.github.io/snake/ ⬅ 
 
 ---
 
@@ -31,13 +31,13 @@ Project is created with:
 * CSS3
 * JavaScript
 
-
 ---
 
 ## Usage
 
 This is ***ONLY*** for personal use as a simple game. You can clone the repo with
-```
+
+```bash
 git clone https://github.com/WeilerWebServices/Snake.git
 ```
 
